@@ -6,9 +6,9 @@ layout: default
 # Nicholas and Sutton's Partner Project!
 
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
-<img src="partner_project/output.png" alt="Line graph of pre_lecture_videos over prior_time. "  width="500"/>
-<img src="partner_project/scatterplot.png" alt="Scatterplot of difficulty over pre_lecture_videos. "  width="500"/>
-<img src="partner_project/histogram.png" alt="Histogram of pre_lecture_videos over comp_major. "  width="500"/>
+<img src="output.png" alt="Line graph of pre_lecture_videos over prior_time. "  width="500"/>
+<img src="scatterplot.png" alt="Scatterplot of difficulty over pre_lecture_videos. "  width="500"/>
+<img src="histogram.png" alt="Histogram of pre_lecture_videos over comp_major. "  width="500"/>
 
 ## Conclusion Write Up
 
