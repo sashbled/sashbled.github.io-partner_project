@@ -7,6 +7,8 @@ layout: default
 
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
 <img src="sashbled.github.io/partner_project/static/imgs/output.png" alt="Line graph of pre_lecture_videos over prior_time. "  width="500"/>
+<img src="sashbled.github.io/partner_project/static/imgs/scatterplot.png" alt="Scatterplot of difficulty over pre_lecture_videos. "  width="500"/>
+<img src="sashbled.github.io/partner_project/static/imgs/histogram.png" alt="Histogram of pre_lecture_videos over comp_major. "  width="500"/>
 
 ## This project took us forever. We really hope it works.
 
